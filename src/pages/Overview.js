@@ -24,18 +24,18 @@ const Overview = () => {
                         All morden ecopolitiical systems
                         owe it to the ancient states like
                         the ancient Greece and Rome
-                        that laid a foundation for the
+                        who laid a foundation for the
                         principle which we now simply
-                        call democracy
+                        call democracy.
 
                     </p>
                     <p className='w-4/5 lg:w-1/2'>
                         These states' exellency in their
                         times has motivated RODLIP Org
                         to design and pursue what it calls
-                        democratic law ideology which its
+                        democratic law ideology which it's
                         certain can bring positive change
-                        in our sophisticated world
+                        in our sophisticated world.
 
                     </p>
                 </div>
@@ -50,7 +50,7 @@ const Overview = () => {
                         basically states that simply by the
                         meaning of a word, there will always
                         be a previledge to satisfy its
-                        meaning even no one manages to.
+                        meaning even if no one manages to.
                     </p>
                 </div>
                 <div className='flex my-20 w-full'>
@@ -66,7 +66,7 @@ const Overview = () => {
                 <div className='flex my-20 lg:justify-end w-full'>
                     <p className='w-72 text-xl'>
                         Simply because the phrase zero
-                        percentag unemployment rate
+                        percentage unemployment rate
                         exists, there is always the priviledge
                         to eliminate unemployment even if
                         that never happens.
@@ -85,11 +85,11 @@ const Overview = () => {
                 <div className='flex my-20  w-full'>
                     <p className='w-72 text-xl'>
                         Now we suppose you understand at least a
-                        bit about our ideology. We are commited
+                        bit about our ideology. We are committed
                         to believe in this under every
                         circumstance and quoting Brian Houston
                         "Never bring your theology down to the
-                        level of your experience, be commited to
+                        level of your experience, be committed to
                         lifting your experience up to your belief.",
                         we find additional motivation to move
                         forward with our mission.
@@ -102,11 +102,11 @@ const Overview = () => {
                         Brian Houston
                     </p>
                     <p className='w-full px-4 lg:px-0 lg:w-2/3 text-xl'>
-                        sharing at the end of 2021 where he thought the following year was 2023,
-                         amazing enough this were
-                        some of his final messages before he stepped down and we joyfully 
+                        sharing at the end of 2021 where he thought the following year was 2023.
+                         Amazing enough these were
+                        some of his final messages before he stepped down from the church's eldership and we joyfully 
                         hold to the encouragement now that
-                        we are in the year he mentioned.
+                        we are in the year that he mentioned.
                     </p>
                 </div>
         </div>

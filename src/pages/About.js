@@ -10,12 +10,8 @@ const About = () => {
                 <img className='w-full lg:w-1/3' src={puzzle} alt='ago' />
                 <p className='w-72 lg:text-xl text-white ml-4 my-4 lg:my-0 lg:ml-28'>
                     We see every ecopolitical failure under the sun
-                    as an opportunity to excel in what those who failed
-                    failed to achieve. RODLIP Org creates the puzzle which
-                    is our systems, participants are the puzzle pieces.
-                    Our unity to achieve the shared goal is the completion
-                    of arranging all the pieces in their right positions
-
+                    as an opportunity to excel in what those who were in leadership,
+                    failed to achieve.
                 </p>
             </div>
             <div className='w-full my-16'>
@@ -28,18 +24,18 @@ const About = () => {
                         <p className='mb-6'>
                             RODLIP Org is setting out to lay a
                             foundation for a sustainable ecopolitical
-                            system that gurantees ecopolitical
+                            system that guarantees ecopolitical
                             exellency in every generation to come.
                         </p>
                         <p className=''>
                             We believe in the ideology of democratic
                             law which according to us simply means a
                             shared vision of the ideology of a perfect
-                            ecopolitical structure
+                            ecopolitical structure.
                         </p>
                         <p className='mb-6'>
                             As a way to remind ourselves of our
-                            prioritywe named our organization,
+                            priority, we named our organization,
                             RODLIP an acronym for Rule Of
                             Democratic Law Ideology Protocol.
                         </p>
@@ -54,13 +50,13 @@ const About = () => {
                     <img className='w-full lg:w-1/2' src={mission} alt='ago' />
                     <div className='w-72 ml-4 lg:ml-28 mt-6 lg:mt-0 lg:text-xl text-white'>
                         <p className='mb-6'>
-                            We envision a world where freedom from all
+                            We envision a world where freedom from
                             ecopolitical crisis is experienced by all.
                         </p>
                         <p className='mb-6'>
                             We envision a world where ecopolitical leadership
                             can not be manipulated at the expense of nationals,
-                             by corrupt leaders
+                            by corrupt leaders.
                         </p>
                         <p className='mb-6'>
                             We envision a world where those in leadership are 

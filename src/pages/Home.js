@@ -17,7 +17,7 @@ const Home = () => {
                     <p className='lg:text-5xl text-3xl lg:my-4 font-bold'>Profile</p>
                     <p className='lg:w-56 w-72'>
                         Established in 2020, RODLIP is an NPO that designs
-                        and governs an ecopolitical system that gurantees
+                        and governs an ecopolitical system that guarantees
                         exellent conduct in the fields of economics and
                         politics throughout generations.
                     </p>
@@ -51,7 +51,7 @@ const Home = () => {
                         </p>
                     </div>
                     <p className='ml-12 lg:ml-16'>
-                        idea that promises a better word and share our
+                        idea that promises a better word and shares our
                         vision
                     </p>
                 </div>
@@ -120,21 +120,21 @@ const Home = () => {
                     <div className='flex items-center'>
                         <p className=' text-xl lg:text-3xl my-3 lg:my-4'>Mailing Address</p>
                     </div>
-                    <p className='ml-1'>610 Main Street Vancouver,
+                    <p className='ml-1'>Kensington, Johannesburg,
 
                     </p>
                     <p className='ml-1'>
-                        BC V6A 2V3,
+                        Gauteng,
                     </p>
                     <p className='ml-1'>
-                        Canada
+                        South Africa
                     </p>
                     <div className='flex mt-2 lg:mt-8 items-center'>
                         <p className=' text-xl lg:text-3xl my-3 lg:my-4'>Phone Number
                         </p>
                     </div>
                     <p className='ml-1'>
-                        (123) 456-7890
+                        +27 68 379 3865
 
                     </p>
                     <div className='flex mt-2 lg:mt-8 items-center'>
